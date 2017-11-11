@@ -1,5 +1,4 @@
-
-
+김찬중
 
 ## Git Pointer
 
